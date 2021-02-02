@@ -1,4 +1,4 @@
-![Hey there, I'm Nei. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/claudineinobrega/claudineinobrega/gif.gif)
+![Hey there, I'm Claudinei Nobrega.](https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif)
 
 ### Hi there 👋
 
