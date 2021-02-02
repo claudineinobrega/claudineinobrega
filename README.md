@@ -1,5 +1,6 @@
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="760" height="354" />
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="912" height="424" />
+<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1094" height="508" />
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1520" height="708" />
 
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif"/>
