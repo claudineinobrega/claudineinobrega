@@ -1,4 +1,4 @@
-![](https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif)
+![](https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512)
 
 <!--
 **claudineinobrega/claudineinobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
