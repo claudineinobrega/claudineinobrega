@@ -1,6 +1,10 @@
-![](https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=1024)
+<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="200" height="200" />
+
+<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif"/>
 
 <!--
+![](https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=1024)
+
 **claudineinobrega/claudineinobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
