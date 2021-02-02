@@ -1,10 +1,5 @@
-<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1000" height="453" />
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1010" height="458" />
-<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1030" height="467" />
-<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1094" height="508" />
-<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1520" height="708" />
-
-<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif"/>
+<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=1024" width="1010" height="458" />
 
 <!--
 ![](https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=1024)
