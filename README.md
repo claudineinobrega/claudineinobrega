@@ -2,6 +2,7 @@
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="912" height="424" />
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="990" height="449" />
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1000" height="453" />
+<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1030" height="467" />
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1094" height="508" />
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1520" height="708" />
 
