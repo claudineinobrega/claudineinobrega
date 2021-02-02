@@ -1,5 +1,4 @@
 <img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=512" width="1010" height="458" />
-<img src="https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=1024" width="1010" height="458" />
 
 <!--
 ![](https://github.com/claudineinobrega/claudineinobrega/blob/master/gif.gif?w=1024)
